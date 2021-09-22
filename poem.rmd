@@ -19,6 +19,12 @@ you, if you change any of this the git program will notice it and compromise you
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
+I think there are poems greater and stranger than any I have known.   
+I would like to find them.  
+They are not on the greying paper of old books  
+or chanted on obscure lips.  
+They are not in the language of mermaids  
+
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
